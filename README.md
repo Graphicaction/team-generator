@@ -8,7 +8,7 @@
 -   [ Test ](#test)
 -   [ License ](#license)
 ## <a name="description"></a>Description:
-'Team-generator' is a command line application that takes in information about employees and generates an HTML webpage that displays summaries for each person. Powered by Node js.
+'Team-generator' is a command line application that takes in information about employees and generates an HTML webpage that displays summaries for each person. It uses OOP's inheritance concept to develop emplyoee team. Powered by Node js.
 ## <a name="installation"></a>Installation:
 
 ```bash
